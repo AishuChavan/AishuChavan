@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Aishwarya 👋
+About Me
+Aspiring MERN Stack Web Developer, C/C++ Programmer, and DSA Practitioner. Skilled in crafting efficient and robust code to solve complex problems. Passionate about continuous learning and staying up-to-date with the latest technologies and best practices. Let's connect and explore new possibilities!
 
-<!--
-**AishuChavan/AishuChavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+#CPP #WebDevelopment #DataStructures #Algorithms #TechEnthusiast #ProblemSolving #DBMS #SQL
